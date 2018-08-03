@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://handingnihao.github.io/"/>
-  <updated>2018-08-01T05:55:21.686Z</updated>
+  <updated>2018-08-03T10:30:24.896Z</updated>
   <id>http://handingnihao.github.io/</id>
   
   <author>
@@ -17,78 +17,20 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>十条不错的编程观点</title>
-    <link href="http://handingnihao.github.io/Android/%E5%8D%81%E6%9D%A1%E4%B8%8D%E9%94%99%E7%9A%84%E7%BC%96%E7%A8%8B%E8%A7%82%E7%82%B9/"/>
-    <id>http://handingnihao.github.io/Android/十条不错的编程观点/</id>
-    <published>2018-08-20T08:47:43.000Z</published>
-    <updated>2018-08-01T05:55:21.686Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;a href=&quot;http://coolshell.cn/articles/2424.html&quot; target=&quot;_blank&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="Android" scheme="http://handingnihao.github.io/categories/Android/"/>
-    
-    
-      <category term="Android" scheme="http://handingnihao.github.io/tags/Android/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>人人都有拖延症2</title>
-    <link href="http://handingnihao.github.io/%E7%94%9F%E6%B4%BB%E6%84%9F%E6%82%9F/%E6%96%B0%E7%94%B5%E8%84%91%E6%B5%8B%E8%AF%95/"/>
-    <id>http://handingnihao.github.io/生活感悟/新电脑测试/</id>
-    <published>2018-03-21T02:13:41.372Z</published>
-    <updated>2018-03-21T02:16:37.484Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;img src=&quot;http://yun.topthink.com/Uploads/Editor/2014-09-29/5428cd5941967.jpg&quot; alt=&quot;img&quot;&gt;&lt;/p&gt;
-&lt;h2 id=&quot;今天说一下拖延症的话题&quot;&gt;&lt;a
-        
-      
-    
-    </summary>
-    
-      <category term="生活感悟" scheme="http://handingnihao.github.io/categories/%E7%94%9F%E6%B4%BB%E6%84%9F%E6%82%9F/"/>
-    
-    
-      <category term="生活感悟" scheme="http://handingnihao.github.io/tags/%E7%94%9F%E6%B4%BB%E6%84%9F%E6%82%9F/"/>
-    
-  </entry>
-  
-  <entry>
     <title>写文章注意事项</title>
     <link href="http://handingnihao.github.io/others/%E5%8F%91%E6%96%87%E7%AB%A0%E6%AD%A5%E9%AA%A4/"/>
     <id>http://handingnihao.github.io/others/发文章步骤/</id>
     <published>2018-03-21T02:06:54.588Z</published>
-    <updated>2018-08-02T09:07:07.547Z</updated>
+    <updated>2018-08-03T10:30:24.896Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;1.打开Git Bash&lt;/p&gt;
-&lt;p&gt;2.切换到Hexo 所在目录，cd d:hexo&lt;/p&gt;
+      &lt;p&gt;1.打开Git Bash&lt;/p&gt;
+&lt;p&gt;2.切换到Hexo 所在目录，cd g:hexo&lt;/p&gt;
 &lt;p&gt;3.生成文章 hexo g&lt;/p&gt;
 &lt;p&gt;4.预览 hexo s （预览完要停止键盘按下 Ctrl + C 停止本地预览）&lt;/p&gt;
-&lt;p&gt;5.部署 hexo  d  
-        
-      
+&lt;p&gt;5.部署 hexo  d   -g&lt;/p&gt;
+&lt;p&gt;阅读原文 加下面的标记&lt;/p&gt;
     
     </summary>
     
@@ -104,18 +46,15 @@
     <link href="http://handingnihao.github.io/%E7%94%9F%E6%B4%BB%E6%84%9F%E6%82%9F/%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%9C%89%E6%8B%96%E5%BB%B6%E7%97%87/"/>
     <id>http://handingnihao.github.io/生活感悟/人人都有拖延症/</id>
     <published>2018-03-21T02:06:54.587Z</published>
-    <updated>2017-08-18T01:40:33.651Z</updated>
+    <updated>2018-08-03T10:31:38.367Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;&lt;img src=&quot;http://yun.topthink.com/Uploads/Editor/2014-09-29/5428cd5941967.jpg&quot; alt=&quot;img&quot;&gt;&lt;/p&gt;
-&lt;h2 id=&quot;今天说一下拖延症的话题&quot;&gt;&lt;a
-        
-      
+      &lt;p&gt;&lt;img src=&quot;http://yun.topthink.com/Uploads/Editor/2014-09-29/5428cd5941967.jpg&quot; alt=&quot;img&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;今天说一下拖延症的话题&quot;&gt;&lt;a href=&quot;#今天说一下拖延症的话题&quot; class=&quot;headerlink&quot; title=&quot;今天说一下拖延症的话题&quot;&gt;&lt;/a&gt;今天说一下拖延症的话题&lt;/h2&gt;&lt;h3 id=&quot;啥是拖延症？&quot;&gt;&lt;a href=&quot;#啥是拖延症？&quot; class=&quot;headerlink&quot; title=&quot;啥是拖延症？&quot;&gt;&lt;/a&gt;啥是拖延症？&lt;/h3&gt;&lt;p&gt;简单来说，你有没有一件你一直想做，却因为各种原因拖着没做的事情，如果有，那就是拖延症。比如说，书柜里有没有一本你买了之后，一直都没看的书？如果有，那你就是拖延症的患者了。&lt;/p&gt;
+&lt;p&gt;人人都是完美主义者，总想用最短的时间获得最大的回报。我一直对自己说，公众号的文章不能再拖了，该更新了，但就是一直拖着没更。因为我认为自己还没准备好，我写出来的文章必须大家看了都点赞，是一篇“爆文”。正是这种心理拖着我一直没有去做。&lt;/p&gt;
+&lt;p&gt;很多时候我们是在为自己找借口，而且是很“合理”的借口。这其实是人的一种天然的懒惰心理，安于现状，最大限度的保护自己，却也让自己慢慢的倒退，失去了奋斗的意志。&lt;/p&gt;
+&lt;p&gt;市面上讲拖延症的书籍有一堆，治疗此病的方法也层出不穷。其实要我说，就几个字：&lt;/p&gt;
     
     </summary>
     
@@ -127,44 +66,20 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://handingnihao.github.io/uncategorized/hello-world/"/>
-    <id>http://handingnihao.github.io/uncategorized/hello-world/</id>
-    <published>2018-03-14T10:45:26.055Z</published>
-    <updated>2017-07-09T09:58:04.568Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Android中MVP架构学习及使用(一)</title>
     <link href="http://handingnihao.github.io/Android/Android%E4%B8%ADMVP%E6%9E%B6%E6%9E%84%E5%AD%A6%E4%B9%A0%E5%8F%8A%E4%BD%BF%E7%94%A8(%E4%B8%80)/"/>
     <id>http://handingnihao.github.io/Android/Android中MVP架构学习及使用(一)/</id>
     <published>2017-08-19T08:47:43.000Z</published>
-    <updated>2018-08-03T04:03:09.961Z</updated>
+    <updated>2018-08-03T10:25:24.963Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;先上一张图MVP的结构图&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img
-        
-      
+      &lt;p&gt;&lt;strong&gt;先上一张图MVP的结构图&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/1227978-bdd6ddc1de595e98.png!web?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; alt=&quot;Android中MVP架构学习及使用&quot;&gt;&lt;/p&gt;
+&lt;p&gt;View:负责绘制UI元素、与用户交互(在Android中体现为Activity)&lt;/p&gt;
+&lt;p&gt;Model:负责存储、检索、操作数据(有时实现一个Model Interface用来降低耦合)&lt;/p&gt;
+&lt;p&gt;Presenter：作为View和Model交互的中间纽带，处理与用户交互的逻辑&lt;/p&gt;
+&lt;p&gt;View Interface：需要View实现的接口，View通过View Interface与Presenter进行交互，降低耦合度，方便单元测试&lt;/p&gt;
     
     </summary>
     
